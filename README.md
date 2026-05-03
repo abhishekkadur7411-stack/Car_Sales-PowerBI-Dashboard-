@@ -32,3 +32,6 @@ Dashboard Preview
 
 Project Files
 Car_Sales.pbix – Power BI dashboard file
+
+Conclusion:
+This dashboard helps in understanding key sales drivers and supports data-driven decision-making for improving sales strategies and identifying high-performing markets.
